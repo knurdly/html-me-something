@@ -5,6 +5,8 @@ body {
 #title{
 	font-family: "Impact";
 	font-size: 250%;
+	text-align: left;
+	margin: 20px 0px 0px 100px;
 }
 
 h1 {
@@ -14,8 +16,9 @@ h1 {
 }
 
 .categories{
-	font-family: "Lucida Console"
+	font-family: "Lucida Console";
 	font-size: 150%;
+
 }
 
 h2 {
@@ -23,12 +26,13 @@ h2 {
 	text-align: center;
 }
 
-.p_padding{
-	
-}
+
 
 p {
     font-family: verdana;
     font-size: 20px;
 	width: 300px;
+	border: 3px solid blue;
+	padding: 20px;
+	
 }
